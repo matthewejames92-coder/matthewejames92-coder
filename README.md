@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Matthew James 👋
 
-<!--
-**matthewejames92-coder/matthewejames92-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer | Georgia, USA**
 
-Here are some ideas to get you started:
+I build practical HTML/JavaScript/CSS tools that automate operational workflows for businesses — turning manual, multi-step processes into clean, single-file browser applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I Build
+
+- **Inventory Dashboards** — Real-time tracking and reporting for nursery operations
+- - **Availability Reports** — CSV-to-polished-report converters for wholesale partners
+  - - **Timesheet Tools** — Data merge utilities for payroll and project tracking
+    - - **Sales Analytics** — Browser-based dashboards for business performance
+     
+      - ---
+
+      ## 🛠️ Tech Stack
+
+      ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+      ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+      ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+      ---
+
+      ## 📌 Featured Projects
+
+      | Project | Description |
+      |---|---|
+      | [Nursery Availability Dashboard](https://github.com/matthewejames92-coder/Nursery-Availability-Dashboard) | Converts raw production CSV exports into polished availability reports and wholesale partner submissions |
+      | [Timesheets Dashboard](https://github.com/matthewejames92-coder/Timesheets-Dashboard) | Merges multiple data sheets into coherent timesheet formats |
+      | [Nursery Inventory Tools](https://github.com/matthewejames92-coder/nursery-inventory-tools) | Dashboard tools for nursery inventory tracking and sales reporting |
+
+      ---
+
+      ## 📫 Connect
+
+      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-james-b15b561a0)
