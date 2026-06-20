@@ -27,9 +27,7 @@ I build practical HTML/JavaScript/CSS tools that automate operational workflows 
 
 | Project | Description |
 |---|---|
-| [Nursery Availability Dashboard](https://github.com/matthewejames92-coder/Nursery-Availability-Dashboard) | Converts raw production CSV exports into polished availability reports and wholesale partner submissions |
-| [Timesheets Dashboard](https://github.com/matthewejames92-coder/Timesheets-Dashboard) | Merges multiple data sheets into coherent timesheet formats |
-| [Nursery Inventory Tools](https://github.com/matthewejames92-coder/nursery-inventory-tools) | Dashboard tools for nursery inventory tracking and sales reporting |
+| [Nursery Inventory Dashboard](https://github.com/matthewejames92-coder/nursery-inventory-dashboard) | Dashboard tools for nursery inventory tracking and sales reporting |
 
 ---
 
